@@ -1,0 +1,11 @@
+$size:100px;
+.Hello {
+	span{
+		font-size:$size;
+	}
+	p{
+		width:500px;
+		height:300px;
+		background:url(images/2.jpg)
+	}
+}
